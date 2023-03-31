@@ -1,0 +1,11 @@
+.navbar-brand{
+    position:relative;
+    left:1%;
+}
+
+.form-container{
+    position: relative;
+    
+    width:50%;
+    left:25%;
+}
